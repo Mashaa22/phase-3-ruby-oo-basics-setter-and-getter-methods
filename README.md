@@ -11,7 +11,7 @@ So far, we've learned how to build classes and give them instance methods. We
 also learned how to create instance variables and use setter and getter methods
 to set and retrieve their values, respectively. In this lesson, we'll learn more
 about these methods and why they're important.
-
+phase-3-ruby-oo-basics-setter-and-getter-methods
 ## Setters and Getters
 
 Setter and getter methods are integral to object-oriented programming in Ruby.
